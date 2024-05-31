@@ -1,62 +1,47 @@
-# 👻 r4ven
+# Привет, я r4ven! 👋
 
-## Welcome to My GitHub Profile!
+Меня зовут r4ven, и я занимаюсь разработкой программного обеспечения. Мой стек технологий включает в себя HTML, CSS, Python, JavaScript, Java и YAML.
 
-Hello! I'm Reven, a passionate developer with a love for creating innovative and spooky-themed projects. Whether you're here to explore my repositories or collaborate on an exciting new idea, you're in the right place. Dive in and let's make something amazing together!
+## Навыки и технологии
 
-![SpookyCuwly Banner](https://avatars.githubusercontent.com/u/151536337?v=4)
+- **HTML**
+  ![HTML](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png)
 
-## 🚀 About Me
+- **CSS**
+  ![CSS](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png)
 
-- 🎃 Name: Reven
-- 💼 Profession: Software Developer
-- 🎨 Specialization: Creative Coding, Web Development, Game Development
-- 🌱 Currently Learning: Machine Learning and AI
-- 🔍 Looking for: Open Source Contributions and Collaboration Opportunities
-- 💬 Ask me about: Anything! I'm always up for a good conversation.
+- **Python**
+  ![Python](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582749_960_720.png)
 
-## 🌟 Featured Projects
+- **JavaScript**
+  ![JavaScript](https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png)
 
-### 🎮 [SpookyGame](https://github.com/SpookyCuwly/SpookyGame)
-An eerie and exciting game developed with Unity. Dive into a world full of mysteries and spooky adventures.
+- **Java**
+  ![Java](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582746_960_720.png)
 
-![SpookyGame Screenshot](https://your-image-url-here.com/spookygame.png)
+- **YAML**
+  ![YAML](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582745_960_720.png)
 
-### 🕸️ [WebHaunt](https://github.com/SpookyCuwly/WebHaunt)
-A spooky-themed personal website template, perfect for Halloween enthusiasts and beyond.
+## Проекты
 
-![WebHaunt Screenshot](https://logos-download.com/wp-content/uploads/2019/06/Dota_2_Logo.png)
+### Гиперзвуковой Катапультатор
 
-### 📦 [CreepyPackages](https://github.com/SpookyCuwly/CreepyPackages)
-A collection of NPM packages with a spooky twist. Add a bit of creepiness to your next project!
+Описание проекта "Гиперзвуковой Катапультатор".
 
-![CreepyPackages Screenshot](https://github.com/SpookyCuwly/SpookyCuwly/assets/151536337/9ed8b01b-6256-4c7c-8ec5-868b7566ca2e)
+### Астральная Криптовалютная Канализация
 
+Описание проекта "Астральная Криптовалютная Канализация".
 
-## 📈 GitHub Stats
+### Квантовый Фрактальный Генератор
 
-![SpookyCuwly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirillsaint&show_icons=true&theme=dark&count_private=true)
+Описание проекта "Квантовый Фрактальный Генератор".
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillsaint&layout=compact&theme=dark)
+## Статистика GitHub
 
-## 📫 Connect with Me
+![Статистика GitHub пользователя r4ven](https://github-readme-stats.vercel.app/api?username=r4venhateyou&show_icons=true&theme=radical)
 
-- [Twitter](https://twitter.com/r4venhateyou)
-- [LinkedIn](https://linkedin.com/in/SpookyCuwly)
-- [Email](mailto:spookycuwly@example.com)
+## Связаться со мной
 
-## 📝 Latest Blog Posts
+- LinkedIn: [SCuwly](SCuwly)
+- Twitter: [r4venhateyou](r4enhateyou)
 
-- [The Journey of Creating SpookyGame](https://your-blog-url-here.com/gh-pages)
-- [How to Add Spooky Effects to Your Website](https://your-blog-url-here.com/spooky-effects)
-- [Top 10 Halloween Coding Projects](https://your-blog-url-here.com/halloween-projects)
-
-## 🤝 Support My Work
-
-If you enjoy my projects and would like to support my work, consider buying me a coffee:
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/spookycuwly)
-
----
-
-Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or have any questions. Let's create something spooky and amazing together! 🎃👻
