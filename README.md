@@ -27,5 +27,3 @@ Welcome to my corner on GitHub! Here, you'll find my projects and experiments in
 ![r4venhateyou's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4venhateyou&show_icons=true&theme=codeSTACKr)
 
 ---
-
-Thank you for visiting! Feel free to leave a star ⭐ on projects you like and follow me to keep up with my coding adventures. Have a great day! 🌟
