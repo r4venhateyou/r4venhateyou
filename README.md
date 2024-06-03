@@ -8,10 +8,9 @@ Welcome to my corner on GitHub! Here, you'll find my projects and experiments in
 > - 🌱 **Currently Learning:** Rust, Kubernetes, Machine Learning
 > - 📫 **Contact:** [LinkedIn](https://www.linkedin.com/SCoowly) | [Twitter](https://twitter.com/r4venhateyou) | [Email](mailto:r4venhateyou@gmail.com)
 
-## 🚀 My Projects
-- 🌐 **[MyWebApp](https://github.com/r4venhateyou/MyWebApp):** A task management web application built with React and Node.js.
-- 🛠 **[DevTools](https://github.com/r4venhateyou/DevTools):** A set of developer tools, including code snippets and utilities.
-- 🧩 **[AlgoMaster](https://github.com/r4venhateyou/AlgoMaster):** A collection of algorithms and data structures in Python.
+## 🚀 My Project
+[![DevTools](https://github-readme-stats.vercel.app/api/pin/?username=r4venhateyou&repo=DevTools&theme=codeSTACKr)](https://github.com/r4venhateyou/DevTools)
+
 
 ## 🧠 My Skills
 - Programming Languages: **JavaScript**, **Python**, **Rust**, **Go**
