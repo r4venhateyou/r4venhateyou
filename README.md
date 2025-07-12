@@ -1,11 +1,11 @@
 # 👋 Welcome! I'm r4venhateyou
 
-Welcome to my corner on GitHub! Here, you'll find my projects and experiments in programming, design, and more. Let's get to know each other better!
+Here you’ll find a collection of my personal projects and step-by-step tutorials for creating advanced Discord bots. I’m passionate about building efficient tools and sharing knowledge with the developer community.
 
 ## 🌟 About Me
 > - 🦅 **Alias:** r4venhateyou
-> - 💻 **Interests:** Web development, algorithms and data structures, cybersecurity
-> - 🌱 **Currently Learning:** Rust, Kubernetes, Machine Learning
+> - 💻 **Interests:** Discord bot development, backend systems, cybersecurity, algorithms, and database design.
+> - 🌱 **Currently Learning:** Advanced Python development, REST APIs, asynchronous programming, and scalable bot architectures.
 > - 📫 **Contact:** [LinkedIn](https://www.linkedin.com/SCoowly) | [Twitter](https://twitter.com/r4venhateyou) | [Email](mailto:r4venhateyou@gmail.com)
 
 ## 🚀 My Project
@@ -13,9 +13,9 @@ Welcome to my corner on GitHub! Here, you'll find my projects and experiments in
 
 
 ## 🧠 My Skills
-- Programming Languages: **JavaScript**, **Python**, **Rust**, **Go**
-- Frameworks and Libraries: **React**, **Node.js**, **Express**, **Flask**
-- Tools: **Docker**, **Git**, **CI/CD**, **Linux**
+- Programming Languages: **Python**, **JavaScript**, **JSON**, **HTML/CSS**
+- Frameworks and Libraries: **Disnake**, **discord.py**, **React**, **Node.js**
+- Tools: **REST APIs**, **WebSockets**, **AsyncIO**
 
 ## 🌌 My Hobbies
 - 📚 **Reading:** Science fiction, fantasy, and technical literature
